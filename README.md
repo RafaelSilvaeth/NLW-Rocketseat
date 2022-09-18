@@ -1,15 +1,14 @@
-# 🎮 NLW eSports - Trilha Explorer
+# NLW eSPorts
 
-![preview](./.github/Preview.png)
-
-Projeto construído no evento Next 
-Level Week da Rocketseat.
+![Preview](./.github/Preview.png)
 
 
+> Trilha Explorer
 
-🌐[Link para acesso](https://rafaelsilvaeth.github.io/NLW-Rocketseat/)
+Projeto construído do evento 
+Next Level Week da Rocketseat.
 
-
+🌐 [Link de aceso](https://rafaelsilvaeth.github.io/NLW-Rocketseat/)
 
 ## 👨🏻‍💻 Tecnologias 
 
@@ -17,7 +16,6 @@ Level Week da Rocketseat.
 - CSS
 - Git e GitHub
 
-## 👨🏻‍💻  Contato
+## Contato
 
 rafaelsilva.eth@outlook.com
-
