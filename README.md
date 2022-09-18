@@ -7,7 +7,7 @@ Level Week da Rocketseat.
 
 
 
-🌐[Link para acesso](https://https://rafaelsilvaeth.github.io/NLW-Rocketseat/)
+🌐[Link para acesso](https://rafaelsilvaeth.github.io/NLW-Rocketseat/)
 
 
 
