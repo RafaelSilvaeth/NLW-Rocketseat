@@ -1,7 +1,5 @@
 # NLW eSPorts
 
-![Preview](./.github/Preview.png)
-
 
 > Trilha Explorer
 
